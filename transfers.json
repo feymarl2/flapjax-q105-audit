@@ -1,0 +1,38 @@
+{
+ "window": {
+  "first_block": 134827417,
+  "last_block": 135019336,
+  "start_utc": 1795237200,
+  "end_utc": 1795323600
+ },
+ "transfers": [
+  {
+   "tx": "0x44f09f88c144480fc800467cef1107a1fff02225aaff831529d04670bf916846",
+   "block": 134863021,
+   "ts_utc": 1795253228,
+   "to": "0x74dd9fdbf1e6a71d2c427a572950d4f05cf78a3e",
+   "amount": 100000.0
+  },
+  {
+   "tx": "0x5fa8198a7fa21d3702f644e745f624aebca3eef448049538e9c54adbe2e9f2f2",
+   "block": 134863167,
+   "ts_utc": 1795253294,
+   "to": "0x74dd9fdbf1e6a71d2c427a572950d4f05cf78a3e",
+   "amount": 50000.0
+  },
+  {
+   "tx": "0xe4df09ef5d7156c00d05ce60cc2c3ddeb6a01632f3e5f8a2c4faa418a7d38c2b",
+   "block": 134933973,
+   "ts_utc": 1795285173,
+   "to": "0xa15c58e7008fc7a0331cfcc86a28af99fd21b93c",
+   "amount": 25000.0
+  },
+  {
+   "tx": "0x6177d0b783b9ec33612fdb57cf41a1c8f8d1934264a3e7f14bba5b5b14827bfd",
+   "block": 134974355,
+   "ts_utc": 1795303349,
+   "to": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+   "amount": 25000.0
+  }
+ ]
+}
